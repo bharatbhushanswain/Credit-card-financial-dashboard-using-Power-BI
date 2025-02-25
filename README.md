@@ -4,9 +4,13 @@ This Power BI dashboard provides an in-depth analysis of credit card transaction
 
 🔹 Key Features:
 ✅ Revenue Analysis – Breakdown by transaction type, customer job, education level, and acquisition cost.
+
 ✅ Transaction Insights – Total transaction volume and amount across different card categories (Blue, Silver, Gold, Platinum).
+
 ✅ Customer Segmentation – Analysis by income group, age, gender, and education level.
+
 ✅ Spending Behavior – Insights on usage patterns such as chip, swipe, and online transactions.
+
 ✅ Geographical Distribution – Top states contributing to revenue.
 
 📊 Built With: Power BI
